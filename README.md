@@ -13,3 +13,4 @@ HBase
 hive
 sqoop
 
+revise the big data concepts
